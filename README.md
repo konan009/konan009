@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 💬 Apologies from some of my repositories being messy, but I will make some time uploading some of my program that I can share publicly. Please don't forget to star some of the repository if you find it useful 😄
+- 💬 Apologies when you find some of my repositories being messy, but I will make some time uploading some of time updating and sharing some of my program publicly. Please don't forget to star some of the repository if you find it useful :)
 - 🔭 I’m currently a Graduate student in Computer Science in Ateneo de Manila
 - 😄 Pronouns: He/Him
 - 📫 How to reach me: ugaddanmeljohn@gmail.com
