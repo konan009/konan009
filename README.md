@@ -1,6 +1,6 @@
 ### Hello there 👋
-- 💬 I upload some of my codes here. I will make some time uploading some of time updating and sharing some of my program publicly. Please don't forget to star some of the repository if you find it useful :)
-- 🔭 I’m currently a Graduate student in Computer Science in Ateneo de Manila
+- 💬 I upload some of my codes here. Please don't forget to star some of the repository if you find it useful :)
+- 🔭 I’m currently a Graduate student in Computer Science in Ateneo de Manila 🦅
 - 👨🏻‍💻 Pronouns: He/Him
 - 📫 How to reach me: ugaddanmeljohn@gmail.com
 <!--
